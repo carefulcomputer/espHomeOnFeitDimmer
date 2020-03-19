@@ -35,6 +35,8 @@ Here is format of mqtt payload you can send both state and brighness.
 `{"state":"ON","brightness":255}`
 
 you can send either of these values independently .
+
+Special thanks to @digiblur and @deadend over at esphome discord channel at https://discordapp.com/channels/530777070435827722/563439987262095361 for patiently helping me in getting to this stage.
  
 
 
